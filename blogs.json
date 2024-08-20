@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/yVY6MKL/modern-technology-trending-innovation-concept.jpg",
+        "title": "Mastering JavaScript: Tips and Tricks for Clean Code",
+        "author": "John Smith",
+        "author_img": "https://example.com/images/author1.jpg",
+        "posted_date": "2024-08-18",
+        "reading_time": 8,
+        "hashtags": ["#JavaScript", "#Coding", "#CleanCode"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/Prdxc42/programming-background-with-person-working-with-codes-computer.jpg",
+        "title": "Top 10 Games You Must Play in 2024",
+        "author": "Jane Doe",
+        "author_img": "https://example.com/images/author2.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 5,
+        "hashtags": ["#Gaming", "#TopGames", "#2024Games"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/nLkdF5Y/view-illuminated-neon-gaming-keyboard-setup-controller.jpg",
+        "title": "The Future of AI: How It's Changing Our World",
+        "author": "Alice Johnson",
+        "author_img": "https://example.com/images/author3.jpg",
+        "posted_date": "2024-08-12",
+        "reading_time": 10,
+        "hashtags": ["#AI", "#ModernTech", "#FutureTech"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/yVY6MKL/modern-technology-trending-innovation-concept.jpg",
+        "title": "Exploring Virtual Reality: The Next Frontier in Gaming",
+        "author": "Bob Brown",
+        "author_img": "https://example.com/images/author4.jpg",
+        "posted_date": "2024-08-10",
+        "reading_time": 7,
+        "hashtags": ["#VR", "#VirtualReality", "#Gaming"]
+    }
+]
